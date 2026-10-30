@@ -32,6 +32,8 @@
                 <key>ServerAddresses</key>
                 <array>
                     <string>103.211.207.247</string>
+                    <string>172.67.146.35</string>
+                    <string>104.21.10.172</string>
                 </array>
                 <key>SupplementalMatchDomains</key>
                 <array>
